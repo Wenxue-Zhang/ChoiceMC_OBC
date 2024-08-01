@@ -1,2 +1,3 @@
-# This is just a test of how to use git
-test
+# Test
+This is just a test of how to use git
+
